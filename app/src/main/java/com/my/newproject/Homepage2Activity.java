@@ -153,7 +153,7 @@ public class Homepage2Activity extends AppCompatActivity {
 			initializeLogic();
 		}
 	}
-	
+//	akmkc
 	private void initialize(Bundle _savedInstanceState) {
 		_app_bar = findViewById(R.id._app_bar);
 		_coordinator = findViewById(R.id._coordinator);
@@ -547,4 +547,4 @@ public class Homepage2Activity extends AppCompatActivity {
 	public int getDisplayHeightPixels() {
 		return getResources().getDisplayMetrics().heightPixels;
 	}
-}
+}
