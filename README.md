@@ -3,6 +3,12 @@
 ## Project Overview
 The Local Skill Development App is a comprehensive platform designed to empower individuals by offering skill-based training and connecting them with employment opportunities. The app aligns with the theme of "Atmanirbhar Bharat" by fostering self-reliance through skill development and job creation. This project integrates modern technologies to provide a seamless user experience and facilitate accessibility to resources.
 
+## Repository Instrcutions :- 
+1. This repository consists of two projects ( App + Website ).
+2. App files can be exported to android studio for code test or user can download the base apk to run on their android device.
+3. The webiste is created on Odoo In. platform but all files are still accessible in Nexus/Website/
+4. The webiste is published under odoo domain and url = https://nexus11.odoo.com
+
 ## Features
 1. **Skill Development Modules**
    - Personalized courses tailored to user needs.
